@@ -1,0 +1,26 @@
+{
+  "name": "wdconsole",
+  "version": "0.0.0",
+  "description": "Helper library for retrieving console info from a webdriver instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericmedem/wdconsole.git"
+  },
+  "keywords": [
+    "webdriver",
+    "wd",
+    "selenium",
+    "console",
+    "nodejs"
+  ],
+  "author": "Eric Edem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericmedem/wdconsole/issues"
+  },
+  "homepage": "https://github.com/ericmedem/wdconsole"
+}
