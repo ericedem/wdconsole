@@ -1,6 +1,6 @@
 {
   "name": "wdconsole",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Helper library for retrieving console info from a webdriver instance.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
     "console",
     "nodejs"
   ],
-  "author": "Eric Edem",
+  "author": "ericmedem",
+  "email": "ericedem@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ericmedem/wdconsole/issues"
