@@ -1,6 +1,6 @@
 {
   "name": "wdconsole",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helper library for retrieving console info from a webdriver instance.",
   "main": "index.js",
   "scripts": {
