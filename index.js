@@ -4,7 +4,7 @@ module.exports.dump = dump;
 var fs = require('fs');
 
 function configure () {
-	return fs.readFileSync('./config.js', 'utf8');
+	return fs.readFileSync(__dirname + '/config.js', 'utf8');
 }
 
 function dump () {

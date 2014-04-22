@@ -51,8 +51,6 @@ function captureConsoleMessages() {
     }
 }
 
-if (window.WDCONSOLE === undefined) {
-	window.WDCONSOLE = {};
-	window.WDCONSOLE.consoleLog = '';
-	captureConsoleMessages();
-}
+WDCONSOLE = {};
+WDCONSOLE.consoleLog = '';
+captureConsoleMessages();
